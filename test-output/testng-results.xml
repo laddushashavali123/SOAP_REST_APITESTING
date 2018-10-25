@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8451" started-at="2018-10-25T09:47:52Z" finished-at="2018-10-25T09:48:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8451" started-at="2018-10-25T09:47:52Z" finished-at="2018-10-25T09:48:00Z">
+      <class name="Rest.restRunner2">
+        <test-method status="PASS" signature="RestTest2()[pri:0, instance:Rest.restRunner2@6e6c3152]" name="RestTest2" duration-ms="1162" started-at="2018-10-25T09:47:59Z" finished-at="2018-10-25T09:48:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestTest2 -->
+      </class> <!-- Rest.restRunner2 -->
+      <class name="Soap.testRunner2">
+        <test-method status="PASS" signature="singleTest()[pri:0, instance:Soap.testRunner2@6ebc05a6]" name="singleTest" duration-ms="168" started-at="2018-10-25T09:47:59Z" finished-at="2018-10-25T09:47:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleTest -->
+      </class> <!-- Soap.testRunner2 -->
+      <class name="Soap.testRunner">
+        <test-method status="PASS" signature="SoapTest()[pri:0, instance:Soap.testRunner@1dfe2924]" name="SoapTest" duration-ms="1470" started-at="2018-10-25T09:47:58Z" finished-at="2018-10-25T09:47:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SoapTest -->
+      </class> <!-- Soap.testRunner -->
+      <class name="Rest.restRunner">
+        <test-method status="PASS" signature="RestTest()[pri:0, instance:Rest.restRunner@578486a3]" name="RestTest" duration-ms="5620" started-at="2018-10-25T09:47:52Z" finished-at="2018-10-25T09:47:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestTest -->
+      </class> <!-- Rest.restRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

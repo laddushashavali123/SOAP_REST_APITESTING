@@ -1,0 +1,12 @@
+2018-10-25 10:47:52,814 WARN  [SoapUI] Missing folder [C:\Users\User\Desktop\Cucumber\SoapUiTest\ext] for external libraries
+2018-10-25 10:47:53,055 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\User\soapui-settings.xml]
+2018-10-25 10:47:54,291 INFO  [PluginManager] 0 plugins loaded in 2 ms
+2018-10-25 10:47:54,291 INFO  [DefaultSoapUICore] All plugins loaded
+2018-10-25 10:47:55,731 INFO  [WsdlProject] Loaded project from [file:/C:/Users/User/Desktop/WebServices/LibraryAPI.xml]
+2018-10-25 10:47:58,189 ERROR [WsdlTestRequestStep] Could not find operation [GetEmployee] in interface [EmployeeManagementServiceSoap12Binding] for test request [SOAP Request] in TestCase [Testing/Script]
+2018-10-25 10:47:58,190 INFO  [WsdlProject] Loaded project from [file:/C:/Users/User/Desktop/WebServices/Employeeagain-soapui-project.xml]
+2018-10-25 10:47:59,502 INFO  [log] moon
+2018-10-25 10:47:59,509 ERROR [WsdlTestRequestStep] Could not find operation [GetEmployee] in interface [EmployeeManagementServiceSoap12Binding] for test request [SOAP Request] in TestCase [Testing/Script]
+2018-10-25 10:47:59,510 INFO  [WsdlProject] Loaded project from [file:/C:/Users/User/Desktop/WebServices/Employeeagain-soapui-project.xml]
+2018-10-25 10:47:59,701 INFO  [WsdlProject] Loaded project from [file:/C:/Users/User/Desktop/WebServices/LibraryAPI.xml]
+2018-10-25 10:48:00,833 INFO  [log] This is another test suite
